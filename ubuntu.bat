@@ -1,0 +1,2 @@
+@ECHO off
+"C:\Program Files\WSL\wslg.exe" -d Ubuntu-22.04 --cd "~" -- env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/cool-retro-term_cool-retro-term.desktop /snap/bin/cool-retro-term --fullscreen
